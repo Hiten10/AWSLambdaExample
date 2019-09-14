@@ -1,0 +1,14 @@
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\bin\Debug\netcoreapp2.2\AWSExample.deps.json
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\bin\Debug\netcoreapp2.2\AWSExample.runtimeconfig.json
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\bin\Debug\netcoreapp2.2\AWSExample.runtimeconfig.dev.json
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\bin\Debug\netcoreapp2.2\AWSExample.dll
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.csproj.CoreCompileInputs.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.RazorAssemblyInfo.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.RazorAssemblyInfo.cs
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.AssemblyInfoInputs.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.AssemblyInfo.cs
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.RazorTargetAssemblyInfo.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\bin\Debug\netcoreapp2.2\AWSExample.pdb
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.dll
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.pdb
+C:\Users\vagrant\source\repos\AWSExample\AWSExample\obj\Debug\netcoreapp2.2\AWSExample.csprojAssemblyReference.cache

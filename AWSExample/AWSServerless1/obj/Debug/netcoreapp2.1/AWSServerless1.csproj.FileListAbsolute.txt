@@ -1,0 +1,14 @@
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\bin\Debug\netcoreapp2.1\AWSServerless1.deps.json
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\bin\Debug\netcoreapp2.1\AWSServerless1.runtimeconfig.json
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\bin\Debug\netcoreapp2.1\AWSServerless1.runtimeconfig.dev.json
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\bin\Debug\netcoreapp2.1\AWSServerless1.dll
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\bin\Debug\netcoreapp2.1\AWSServerless1.pdb
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.csprojAssemblyReference.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.csproj.CoreCompileInputs.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.RazorAssemblyInfo.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.RazorAssemblyInfo.cs
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.AssemblyInfoInputs.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.AssemblyInfo.cs
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.RazorTargetAssemblyInfo.cache
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.dll
+C:\Users\vagrant\source\repos\AWSExample\AWSServerless1\obj\Debug\netcoreapp2.1\AWSServerless1.pdb
