@@ -1,0 +1,14 @@
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\bin\Debug\netcoreapp2.1\AZWebAPIExample.deps.json
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\bin\Debug\netcoreapp2.1\AZWebAPIExample.runtimeconfig.json
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\bin\Debug\netcoreapp2.1\AZWebAPIExample.runtimeconfig.dev.json
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\bin\Debug\netcoreapp2.1\AZWebAPIExample.dll
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\bin\Debug\netcoreapp2.1\AZWebAPIExample.pdb
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.csprojAssemblyReference.cache
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.csproj.CoreCompileInputs.cache
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.RazorAssemblyInfo.cache
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.RazorAssemblyInfo.cs
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.AssemblyInfoInputs.cache
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.AssemblyInfo.cs
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.RazorTargetAssemblyInfo.cache
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.dll
+c:\users\vagrant\source\repos\AZWebAPIExample\AZWebAPIExample\obj\Debug\netcoreapp2.1\AZWebAPIExample.pdb
